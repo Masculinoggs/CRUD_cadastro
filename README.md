@@ -7,4 +7,9 @@
   HTML<br>
   CSS
   
+  <h2>Banco de Dado:</h2>
+  phpMYAdmin
   
+  <h2>Framework:</h2>
+  BootStrap<br>
+  JQuery<br>
