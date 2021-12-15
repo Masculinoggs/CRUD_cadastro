@@ -13,12 +13,12 @@ Realizar os três CRUDS, o CRUD da disciplina irá receber o Nome do professor e
   CSS<br>
   JavaScript
   
-  <h2>Marcação de texto:</h2>
+ <h2>Back-End:</h2>
   PHP
   
-  <h2>Framework:</h2>
+  <h2>Frameworks:</h2>
   BootStrap<br>
   JQuery<br>
 
-<h2>Banco de Dado:</h2>
+<h2>Banco de Dados:</h2>
   phpMYAdmin
